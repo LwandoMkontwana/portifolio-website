@@ -112,11 +112,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "IMS System Programmer",
+    company_name: "ABSA Group",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Mar 2019 - Present ",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -125,24 +125,24 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "IBM Z Software Engineer ",
+    company_name: "IBM",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Oct 2018 - Sep 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "This role specializes in performing problem determination and problem source identification in software environments. ",
+      "Responsibilities include: Problem analysis, Evaluation, Recreation, and Resolution of client reported problems",
+      "The use of relevant problem management systems to search for known problems and to create new entries / update existing entries - advice and guidance to clients regarding the use of software ",
+      "The use of IBM technical resources and tools to answer client questions and respond to clients requirements Software environments include operating systems, programming languages, database management systems, packages, development tools, etc.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Facilitator",
+    company_name: "CTU Training Solutions",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2018 - Jun 2018",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -151,16 +151,17 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "GIT (Graduate In Training)",
+    company_name: "Eberspächer Group",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Sep 2017 - Feb 2018 · 6 mos",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Software Maintenance -Assist MIS programmer writing programs & maintain current internal programs",
+      "Enhance current add - on application in C#",
+      "Hardware - Assist with PC set-up and configuration basic PC repair",
+      "Database server maintenance with MSSQL",
+      "Assist with general IT functions - troubleshooting"
     ],
   },
 ];
