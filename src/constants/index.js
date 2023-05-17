@@ -8,12 +8,9 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
-  mongodb,
   git,
-  figma,
   docker,
   meta,
   starbucks,
@@ -54,7 +51,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Photographer",
+    title: "Photography",
     icon: creator,
   },
   {
@@ -162,6 +159,23 @@ const experiences = [
       "Hardware - Assist with PC set-up and configuration basic PC repair",
       "Database server maintenance with MSSQL",
       "Assist with general IT functions - troubleshooting"
+    ],
+  },
+  {
+    title: "Software Development Intern",
+    company_name: "Eberspächer Group",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "Sep 2017 - Feb 2018 · 6 mos",
+    points: [
+      "Software Maintenance - First Line Support ( Problem Solving, troubleshooting)",
+      "2nd Line support (low impact bug fixes & data cleanup , client side code breaks)",
+      "User requests - Surveys, Invitations, User admin on systems",
+      "Marketing requests - intranet support, website support, EAlbum",
+      "Export and report requests, SQL query writing",
+      "Admin -Ensure all requests are correctly followed according to organisational procedures and compliance",
+      "Support ticket response, verification and closure",
+      "Source Control practice adherence"
     ],
   },
 ];
