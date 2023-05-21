@@ -183,46 +183,46 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Lwando thrives on complex new challenges, and is keen to supercede expectations. He took on a role with me in a field he didn't know prior to the internship. However he excelled and became one of the top performers in our IBM Internship Program very early on in the program.",
+    name: "Vickey Van Den Heever",
+    designation: "IBM Z Client Leader",
+    company: "IBM",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've worked with Lwando for a year on the IBM Z internship program. In that one year i've seen him not only excel at the core elements of his job, but also learn other tasks that extend well beyond the scope of his role. I believe Lwando's willingness to learn and take on new responsibilities is something to be desired in any job.",
+    name: "Lehlogonolo Masubelele",
+    designation: "Cloud Support Engineer",
+    company: "AWS",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "I highly recommend Lwando, I've known him for over a decade. His professionalism, technical expertise, and attention to detail result in outstanding web apps. He possess exceptional character, embodying integrity, reliability, and a commitment to client satisfaction. A true asset to any project or team.",
+    name: "Briner Monama",
+    designation: "CEO",
+    company: "Visionux",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Sleek Invest",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search and invest in stocks. It also includes a watchlist where you can track all stocks that you are interested in.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "ms-sqlserver",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "c-sharp web api",
         color: "pink-text-gradient",
       },
     ],
