@@ -12,10 +12,11 @@ import {
   nodejs,
   git,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  absa,
+  ctu,
+  purem,
+  coega,
+  ibm,
   carrent,
   jobit,
   tripguide,
@@ -111,7 +112,7 @@ const experiences = [
   {
     title: "IMS System Programmer",
     company_name: "ABSA Group",
-    icon: starbucks,
+    icon: absa,
     iconBg: "#383E56",
     date: "Mar 2019 - Present ",
     points: [
@@ -124,7 +125,7 @@ const experiences = [
   {
     title: "IBM Z Software Engineer ",
     company_name: "IBM",
-    icon: tesla,
+    icon: ibm,
     iconBg: "#E6DEDD",
     date: "Oct 2018 - Sep 2019",
     points: [
@@ -137,7 +138,7 @@ const experiences = [
   {
     title: "Facilitator",
     company_name: "CTU Training Solutions",
-    icon: shopify,
+    icon: ctu,
     iconBg: "#383E56",
     date: "Feb 2018 - Jun 2018",
     points: [
@@ -150,7 +151,7 @@ const experiences = [
   {
     title: "GIT (Graduate In Training)",
     company_name: "Eberspächer Group",
-    icon: meta,
+    icon: purem,
     iconBg: "#E6DEDD",
     date: "Sep 2017 - Feb 2018 · 6 mos",
     points: [
@@ -163,8 +164,8 @@ const experiences = [
   },
   {
     title: "Software Development Intern",
-    company_name: "Eberspächer Group",
-    icon: meta,
+    company_name: "Coega",
+    icon: coega,
     iconBg: "#E6DEDD",
     date: "Sep 2017 - Feb 2018 · 6 mos",
     points: [
